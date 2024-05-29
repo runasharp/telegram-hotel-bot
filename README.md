@@ -26,6 +26,10 @@ The primary motivation for creating this bot was to track the price of stays in 
 - `/deleteurl <id>` - Delete a tracking URL.
 - `/help` - Show the help message with all commands.
 
+## Screenshot
+
+![Bot Screenshot](/screenshot.PNG)
+
 ## Installation
 
 1. **Clone the repository**:

@@ -30,6 +30,20 @@ The primary motivation for creating this bot was to track the price of stays in 
 
 ![Bot Screenshot](/screenshot.PNG)
 
+## Setting Up Your Bot on Telegram
+
+1. **Find BotFather on Telegram**:
+   - Open Telegram and search for `BotFather`.
+   - Start a chat with BotFather.
+
+2. **Create a New Bot**:
+   - Use the `/newbot` command to create a new bot.
+   - Follow the instructions to name your bot and create a username for it.
+
+3. **Get Your HTTP API Token**:
+   - After creating the bot, BotFather will provide an HTTP API token.
+   - Copy this token and use it in your `.env` file as described in the installation steps.
+
 ## Installation
 
 1. **Clone the repository**:

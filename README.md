@@ -48,7 +48,7 @@ The primary motivation for creating this bot was to track the price of stays in 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/telegram-price-tracker-bot.git
+   git clone https://github.com/runasharp/telegram-hotel-bot.git
    cd telegram-price-tracker-bot
    ```
 
